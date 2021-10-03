@@ -1,4 +1,4 @@
-# Android-Development Notes. (java)
+# Android-Development Notes (java)
 ```
 console.log("test")
 ```
