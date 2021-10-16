@@ -15,6 +15,7 @@ There are four different types of app components:
 -Activities
 
  An activity is the entry point for interacting with the user.
+ 
 -Services
 
 -Broadcast receivers
