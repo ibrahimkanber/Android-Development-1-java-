@@ -9,5 +9,5 @@ Activity lifecycle
 3.onResume()
 4.onPause()
 5.onStop()
-6.onDestroy(). 
+6.onDestroy() 
 ```
