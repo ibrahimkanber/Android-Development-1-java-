@@ -12,13 +12,13 @@ App components
 App components are the essential building blocks of an Android app. Each component is an entry point through which the system or a user can enter your app. Some components depend on others.
 There are four different types of app components:
 
-.Activities
+-Activities
 
-.Services
+-Services
 
-.Broadcast receivers
+-Broadcast receivers
 
-.Content providers
+-Content providers
 
 
 ------------Activity lifecycle-------------
