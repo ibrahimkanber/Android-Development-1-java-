@@ -2,7 +2,7 @@
 ```
 console.log("test")
 ```
-Activity lifecycle
+------------Activity lifecycle-------------
 ```
 1.onCreate()
 2.onStart()
